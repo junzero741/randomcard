@@ -10,7 +10,7 @@ public class RandomCardApp {
 
 		
 		
-//		var randomNum =  (int) Math.ceil(Math.random()*10) + 2;// random between 5~12 --- > 0~12
+
 		
 		System.out.println(num[getRandomNumberInRange(0, 12)]); // number random 0~12
 		System.out.println(shape[getRandomNumberInRange(0, 3)]); // shape random heart ~ clover
