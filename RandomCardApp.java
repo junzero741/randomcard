@@ -7,7 +7,7 @@ public class RandomCardApp {
 		
 		String[] num = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"};
 		String[] shape = {"heart", "spade", "diamond", "clover"};
-//		String[][] cards = {{"2", "heart"},{"2", "spade"}};
+
 		
 		
 //		var randomNum =  (int) Math.ceil(Math.random()*10) + 2;// random between 5~12 --- > 0~12
